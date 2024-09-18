@@ -30,7 +30,7 @@ An online education portal built with PHP that allows users to access courses, t
 ### Steps
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/online-education-portal.git
+    git https://github.com/dm-mishra1578/E-Learning.git
     cd online-education-portal
     ```
 
